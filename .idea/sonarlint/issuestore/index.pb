@@ -7,3 +7,15 @@ Q.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb
 ..idea/inspectionProfiles/profiles_settings.xml,1\e\1e9075f5bf079c01ef2c910709e91a497d262080
 w
 G.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29,0\e\0e659b6dc067a9e8d729848985fb11903f7a88d8
+Å
+Q.idea/sonarlint/securityhotspotstore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080,2\b\2b8cdd31beed7f49883db0988fe57e4618cd62fd
+w
+G.idea/sonarlint/issuestore/b/5/b58a0677868503201074e965423d875803239017,7\3\734afce58a3e41c14a71e125d4d8fafca527d956
+Å
+Q.idea/sonarlint/securityhotspotstore/b/5/b58a0677868503201074e965423d875803239017,0\3\03d0bc6c0bde37cec5122c2677682e3692158735
+w
+G.idea/sonarlint/issuestore/0/e/0e659b6dc067a9e8d729848985fb11903f7a88d8,5\e\5e3be41c45159904aa4ea886de6efcb73c6b9aef
+Å
+Q.idea/sonarlint/securityhotspotstore/0/e/0e659b6dc067a9e8d729848985fb11903f7a88d8,1\2\1298072d1fbc5d07ae12f80fa32114c910424e6c
+w
+G.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080,2\5\2511a7590eb091d560dac1615e6bcef0ceeaffb6
